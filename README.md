@@ -42,10 +42,10 @@ cardapio-fullstack/
 Abaixo estão algumas telas do projeto:
 
 ### Tela Home
-![Tela Home](frontend-cardapio/public/home.png)
+![Tela Home](./frontend-cardapio/public/home.png)
 
 ### Adicionar Mais Alimentos (Modal)
-![Adicionar Alimentos](frontend-cardapio/public/modal.png)
+![Adicionar Alimentos](./frontend-cardapio/public/modal.png)
 
 ---
 
