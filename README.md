@@ -23,6 +23,7 @@ Desenvolvido como exemplo de integração **frontend/backend** com banco de dado
 
 ## 📂 Estrutura do Projeto
 
+```bash
 cardapio-fullstack/
 ├─ backend/ # Projeto Spring Boot
 │ ├─ src/
@@ -34,7 +35,7 @@ cardapio-fullstack/
 │ └─ vite.config.ts
 ├─ .gitignore
 └─ README.md
-
+```
 ---
 
 ## 🖼️ Demonstração
