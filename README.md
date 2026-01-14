@@ -79,6 +79,6 @@ Certifique-se de que o backend esteja rodando para que o frontend consiga fazer 
 
 ## 📌 Observações
 
-Projeto feito para fins educacionais e portfólio.
-Demonstra boas práticas de integração frontend/backend, CRUD completo e uso de banco de dados relacional.
+Projeto feito para fins educacionais e portfólio. </br>
+Demonstra boas práticas de integração frontend/backend, CRUD completo e uso de banco de dados relacional.</br>
 Ideal para demonstrar conhecimentos em React, TypeScript, Spring Boot e PostgreSQL.
