@@ -1,4 +1,4 @@
-# 🍽️ Cardápio Fullstack CRUD
+# 🍽️ Cardápio Fullstack
 
 Um sistema completo de gerenciamento de cardápio, permitindo **criar, listar, atualizar e deletar alimentos**.  
 Desenvolvido como exemplo de integração **frontend/backend** com banco de dados relacional.
